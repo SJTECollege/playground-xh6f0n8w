@@ -3,9 +3,9 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-p = 100000; # principal (capital inicial)
+p = 100000; # principle (initial capital)
 i = (4.17)/100; # taxa de juros
-n = 1 # número de períodos
+n = 1 # number if periods
 
 m = p*(1+(i*n)); # expressão do montante final
 
